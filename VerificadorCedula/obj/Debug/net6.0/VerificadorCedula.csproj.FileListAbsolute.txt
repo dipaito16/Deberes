@@ -1,0 +1,15 @@
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\bin\Debug\net6.0\VerificadorCedula.exe
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\bin\Debug\net6.0\VerificadorCedula.deps.json
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\bin\Debug\net6.0\VerificadorCedula.runtimeconfig.json
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\bin\Debug\net6.0\VerificadorCedula.dll
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\bin\Debug\net6.0\VerificadorCedula.pdb
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\obj\Debug\net6.0\VerificadorCedula.csproj.AssemblyReference.cache
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\obj\Debug\net6.0\VerificadorCedula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\obj\Debug\net6.0\VerificadorCedula.AssemblyInfoInputs.cache
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\obj\Debug\net6.0\VerificadorCedula.AssemblyInfo.cs
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\obj\Debug\net6.0\VerificadorCedula.csproj.CoreCompileInputs.cache
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\obj\Debug\net6.0\VerificadorCedula.dll
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\obj\Debug\net6.0\refint\VerificadorCedula.dll
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\obj\Debug\net6.0\VerificadorCedula.pdb
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\obj\Debug\net6.0\VerificadorCedula.genruntimeconfig.cache
+C:\Users\diapa\OneDrive\Documentos\Proyectos C#\VerificadorCedula\VerificadorCedula\obj\Debug\net6.0\ref\VerificadorCedula.dll
